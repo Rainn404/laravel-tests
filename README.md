@@ -53,7 +53,8 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ## Contributing
 # Laravel Testing Project
-![Rainn404](https://github.com/Rainn404/laravel-tests.git)
+![Rainn404](https://github.com/Rainn404/laravel-tests/actions/workflows/laravel-tests.yml/badge.svg
+)
 
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
